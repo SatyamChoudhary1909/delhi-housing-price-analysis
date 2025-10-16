@@ -60,8 +60,7 @@ Actual Price: ₹ 32,00,000
 
 ## 👨‍💻 Author
 **Satyam Choudhary**
-
-Machine Learning Enthusiast | Robotics & Automation  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/satyam-choudhary-114b89325)
 
 ---
 
