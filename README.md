@@ -32,6 +32,7 @@ The dataset used comes from **MagicBricks** (real-estate listings in India).
 
 ## 📈 Sample Prediction
 Predicted Price: ₹ 29,55,094
+
 Actual Price: ₹ 32,00,000
 
 ---
@@ -58,7 +59,8 @@ Actual Price: ₹ 32,00,000
 ---
 
 ## 👨‍💻 Author
-**Satyam Choudhary (Zypher)**  
+**Satyam Choudhary**
+
 Machine Learning Enthusiast | Robotics & Automation  
 
 ---
